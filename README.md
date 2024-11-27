@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** JavaScript, C, Python
+- **Languages:** JavaScript, C, C++, Java, Python
 - **Frontend:** React.js, Tailwind CSS, DaisyUI
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB
